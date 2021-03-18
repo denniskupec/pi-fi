@@ -1,0 +1,16 @@
+(kicad_sch (version 20210126) (generator eeschema)
+
+  (paper "A4")
+
+  (title_block
+    (title "CM4 - USB")
+    (date "2021-03-17")
+    (rev "2")
+    (company "(c) Dennis Kupec 2021")
+    (comment 1 "Based on the reference design by Raspberry Pi Foundation")
+  )
+
+  (lib_symbols
+  )
+
+)
